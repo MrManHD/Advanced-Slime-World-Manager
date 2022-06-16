@@ -5,8 +5,6 @@ plugins {
 dependencies {
     implementation(project(":slimeworldmanager-api"))
     implementation(project(":slimeworldmanager-nms-common"))
-    implementation(project(":slimeworldmanager-nms-v117-1", "reobf"))
-    implementation(project(":slimeworldmanager-nms-v118-1", "reobf"))
     implementation(project(":slimeworldmanager-nms-v118-2", "reobf"))
     implementation(project(":slimeworldmanager-nms-v119", "reobf"))
     implementation(project(":slimeworldmanager-classmodifierapi"))
