@@ -75,7 +75,7 @@ public class v119SlimeNMS implements SlimeNMS {
         }
     }
 
-    private final byte worldVersion = 0x08;
+    private final byte worldVersion = 0x09;
 
     private boolean injectFakeDimensions = false;
 
